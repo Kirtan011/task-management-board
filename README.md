@@ -66,7 +66,8 @@ Follow these steps to run the project locally:
 
 ## Project Structure
 
-\`\`\`
+
+```
 ├── app/
 │   ├── page.tsx          # Main page that renders the Board component
 │   ├── layout.tsx        # Root layout with metadata
@@ -83,4 +84,4 @@ Follow these steps to run the project locally:
 │       └── storage.ts          # localStorage utility functions
 ├── components/ui/        # shadcn/ui components
 └── README.md            # This file
-\`\`\`
+```
