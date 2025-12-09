@@ -85,3 +85,7 @@ Follow these steps to run the project locally:
 ├── components/ui/        # shadcn/ui components
 └── README.md            # This file
 ```
+
+## Deployed Project Link
+https://task-management-board-sigma.vercel.app/
+
